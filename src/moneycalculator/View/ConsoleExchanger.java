@@ -12,7 +12,7 @@ public class ConsoleExchanger implements Exchanger{
 
     @Override
     public void execute() {
-        System.out.println("From: ");
+        System.out.println("From:  ");
         MoneyDialog moneyDialog = new MoneyDialog();
         try {
             moneyDialog.execute();
@@ -20,7 +20,7 @@ public class ConsoleExchanger implements Exchanger{
             Logger.getLogger(ConsoleExchanger.class.getName()).log(Level.SEVERE, null, ex);
         }
         
-        System.out.println("To:");
+        System.out.println("To:  ");
         CurrencyDialog currencyDialog = new CurrencyDialog();
         try {
             currencyDialog.execute();
