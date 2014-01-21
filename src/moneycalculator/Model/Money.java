@@ -1,6 +1,6 @@
 package moneycalculator.Model;
 
-import moneycalculator.Model.Currency;
+//import moneycalculator.Model.Currency;
 
 
 public class Money {

@@ -1,6 +1,6 @@
 package moneycalculator.Model;
 
-import moneycalculator.Model.Money;
+//import moneycalculator.Model.Money;
 import moneycalculator.Model.ExchangeRate;
 
 public class MoneyExchanger {
