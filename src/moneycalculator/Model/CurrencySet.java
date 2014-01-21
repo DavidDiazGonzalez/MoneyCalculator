@@ -1,7 +1,7 @@
 package moneycalculator.Model;
 
 import moneycalculator.Model.Currency;
-import java.util.ArrayList;
+//import java.util.ArrayList;
 import java.util.HashSet;
 
 public class CurrencySet extends HashSet<Currency>{
