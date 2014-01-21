@@ -1,4 +1,4 @@
-package moneycalculator;
+package moneycalculator; 
 /*
     Authors:
     Hector Garbisu Arocha.
